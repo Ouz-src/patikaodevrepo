@@ -104,8 +104,10 @@ public class RecursiveFibonacci {
     }
 
     public static int pow(int b, int p) {
-        if (p <= 1)
+        if (p == 1)
             return b;
+        if (p == 0)
+            return 1;
         return b * pow(b, p - 1);
     }
 
