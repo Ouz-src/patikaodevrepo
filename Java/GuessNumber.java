@@ -52,7 +52,6 @@ public class GuessNumber {
                     System.out.print(i + " ");
             }
         }
-        // KULLANICI 0 ve 100 ARALIĞINDA SAYI GİRMEZSE UYARI VERSİN
         input.close();
     }
 }
