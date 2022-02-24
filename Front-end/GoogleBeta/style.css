@@ -1,0 +1,33 @@
+.container {
+    margin: 0 5%;
+}
+
+.search-bar {
+    padding: 10px;
+    background-color: rgb(236, 236, 236);
+}
+
+.input-box {
+    margin: 5px;
+}
+
+.left-col {
+    background-color: #7EE5DA;
+    width: 37%;
+    display: inline-block;
+    padding: 5px 0;
+}
+
+.mid-col {
+    background-color: #70CCC2;
+    width: 20%;
+    display: inline-block;
+    padding: 5px 0;
+}
+
+.right-col {
+    background-color: #62B3AA;
+    display: inline-block;
+    width: 42%;
+    padding: 2px 0;
+}
