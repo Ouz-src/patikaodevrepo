@@ -1,0 +1,35 @@
+body {
+    background-image: url(/images/landscape-gecb1f48fb_1920.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-shadow: rgb(207, 206, 202) 1px 0 10px;}
+
+footer {
+    font-size: xx-small;
+}
+
+#index-p {
+    background-color: rgba(80, 69, 32, 0.527);
+    border-radius: 25px;
+    outline: solid 1px black;
+    padding: 10px;
+}
+
+.mp-info {
+    background-color: rgba(139, 52, 52, 0.212);
+    border-radius: 25px;
+    width: 550px;
+    height: 130px;
+    text-align: center;
+    display: inline-block;
+    outline: solid 1px black;
+}
+
+.aboutus-section {
+    background-color: rgba(69, 92, 112, 0.329);
+    border-radius: 25px;
+    outline: solid 1px black;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+}
